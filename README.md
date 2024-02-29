@@ -34,4 +34,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hunt4499&show_icons=true&locale=en&layout=compact" alt="hunt4499" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hunt4499&show_icons=true&locale=en" alt="hunt4499" /></p>
